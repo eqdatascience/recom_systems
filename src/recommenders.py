@@ -95,7 +95,7 @@ class MainRecommender:
         return similar_items
     
     def get_similar_users_recommendation(self, user, N=5):
-		"""Рекомендуем топ-N товаров, среди купленных похожими юзерами"""
+		#"""Рекомендуем топ-N товаров, среди купленных похожими юзерами"""
     
         # your_code
         res = []
